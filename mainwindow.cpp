@@ -27,6 +27,9 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->BTMagnetOff->setEnabled(false);
 
 /*
+ *
+ *
+ *
     while (sHeight.readDigital() == true)
     {
         ui->TEConsole->append("Endstop Höhe");
